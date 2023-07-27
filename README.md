@@ -5,10 +5,10 @@ This is a simple weather application that allows users to check the weather for 
 Users can search for the weather of a specific location. Users can view the current temperature, humidity, wind speed,feels_like,pressure and weather condition of the searched location. The application also displays a corresponding weather icon depending on the current weather condition.
 
 # Technologies
-HTML
-CSS
-JavaScript
-OpenWeatherMap API
+HTML,
+CSS,
+JavaScript,
+OpenWeatherMap API 
 
 # Getting Started
 To use this application, simply clone or download this repository and open the WeatherApp.html file in your browser.
@@ -20,4 +20,4 @@ Type the name of a city in the search bar and click the search button. The appli
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 # Acknowledgments
-This project was inspired by OpenWeatherMap. Special thanks to Easy Tutorials for their valuable contributions to this project.
+This project was done by "Ganta Suma Sri" during Fornt End Developer Programe at "Smart Internz". Special thanks to "Ganta Kalyan" for his valuable contributions to this project.
