@@ -11,7 +11,7 @@ JavaScript,
 OpenWeatherMap API 
 
 # Getting Started
-To use this application, simply clone or download this repository and open the WeatherApp.html file in your browser.
+To use this application, simply clone or download this repository and open the Weather.html file in your browser.
 
 # Usage
 Type the name of a city in the search bar and click the search button. The application will retrieve the weather information for the city and display it on the screen. Users can search for the weather of another city by typing its name in the search bar and clicking the search button again.
