@@ -4,6 +4,9 @@ This is a simple weather application that allows users to check the weather for 
 # Features
 Users can search for the weather of a specific location. Users can view the current temperature, humidity, wind speed,feels_like,pressure and weather condition of the searched location. The application also displays a corresponding weather icon depending on the current weather condition.
 
+# project demo video link-
+https://drive.google.com/file/d/1eZRIUU_sx1oALwQBzGuXuDcl-XqVqZfa/view?usp=sharing
+
 # Technologies
 HTML,
 CSS,
